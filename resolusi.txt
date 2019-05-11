@@ -5,3 +5,4 @@ Resolusi ShellRean kedepan
 - Bisa menguasai Wordpress Development
 - Bisa menguasai Celah celah keamanan website
 - Menjadi fullstack javascript developer
+- Membuat aplikasi e administrasi
