@@ -1,8 +1,8 @@
 Resolusi ShellRean kedepan
 - Bisa menguasai NodeJS
-- Bisa menguasai Laravel
 - Bisa menguasai Iocnic dan cordova
 - Bisa menguasai Wordpress Development
 - Bisa menguasai Celah celah keamanan website
 - Menjadi fullstack javascript developer
 - Membuat aplikasi e administrasi
+- Menjadi developer multi platform
