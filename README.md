@@ -1,0 +1,2 @@
+# resolusi
+Resolusi shellrean
