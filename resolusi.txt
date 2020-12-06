@@ -1,8 +1,26 @@
 Resolusi ShellRean kedepan
-- Bisa menguasai NodeJS
-- Bisa menguasai Iocnic dan cordova
-- Bisa menguasai Wordpress Development
-- Bisa menguasai Celah celah keamanan website
-- Menjadi fullstack javascript developer
-- Membuat aplikasi e administrasi
-- Menjadi developer multi platform
+- Bisa menguasai NodeJS < yes
+- Bisa menguasai Iocnic dan cordova < no
+- Bisa menguasai Wordpress Development < yes
+- Bisa menguasai Celah celah keamanan website < maybe
+- Menjadi fullstack javascript developer < yes
+- Membuat aplikasi e administrasi < yes
+- Menjadi developer multi platform < yes
+
+Tahun 2020 Pencapaian
+- Peningkatan pengetauan Laravel
+- Peningkatan pengetauan VueJS
+- Peningkatan pengetauan Golang
+- Peningkatan pengetauan Flutter
+
+Tahun 2021 Kedepan
+- Fokus ke stack
+  * PHP sebagai pembuat monolit app
+  * Golang sebagai bahasa backend microservice
+  * Javascript sebagai bahasa frontend
+  * Python sebagai sistem pintar
+  * Java untuk pengembangan deskop app
+  * Flutter untuk pengembangan mobile app
+- Membuat package golang
+- Membuat sistem integrasi seluruh stack yang difokuskan
+- Migrasi seluruh aplikasi besar yang telah saya buat ke stack yang difokuskan
